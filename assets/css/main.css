@@ -175,7 +175,7 @@ html {
 html {
 	background-color: #313a3d;
 	background-attachment: fixed, fixed;
-	background-image: url("images/overlay.png"), url("../../images/statue-sword.jpg");
+	background-image: url("images/overlay.png"), url("../../images/need-help.jpg");
 	background-position: top left, center center;
 	background-repeat: repeat, none;
 	background-size: auto, cover;
